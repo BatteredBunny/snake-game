@@ -52,7 +52,7 @@ int main(void)
     Vector2 snakeTails[256];
 
     //Enables walls
-    int walls = true;
+    int walls = false;
 
     //Enables and disables the bottom black bar
     int gameUI = true;
